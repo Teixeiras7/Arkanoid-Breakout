@@ -1,0 +1,3 @@
+package model;
+
+public enum GameState { MENU, LEVEL_SELECT, OPTIONS, PLAYING, PAUSED, LEVEL_CLEAR, GAME_OVER, VICTORY }
