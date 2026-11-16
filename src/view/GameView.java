@@ -36,7 +36,7 @@ public class GameView extends JPanel {
     private static final Color PINK = new Color(250, 120, 200);
     private static final Color CYAN = new Color(40, 210, 220);
     private static final Color SILVER = new Color(170, 170, 185);
-    private static final Color GOLD = new Color(230, 170, 40);
+    private static final Color GOLD = new Color(160, 95, 45);
     private static final Color STEEL = new Color(80, 85, 100);
     private static final Color[] ROW_COLORS = {
         RED, ORANGE, YELLOW, GREEN, new Color(50, 150, 240), new Color(180, 70, 220),
