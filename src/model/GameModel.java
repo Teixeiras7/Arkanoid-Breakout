@@ -62,7 +62,7 @@ public class GameModel {
     }
 
     public boolean isLevelUnlocked(int index) {
-        return index <= levelsCleared;
+        return true;
     }
 
     public boolean isLevelCompleted(int index) {
